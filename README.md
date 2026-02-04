@@ -14,7 +14,7 @@ This project analyzes a telecommunications dataset to identify why customers are
 * Financial Impact: Identified 120.85K in monthly recurring revenue currently at risk.
 
 ## Tools Used
-*Excel/Google Sheets: Did a bit of cleaning by removing empty cells and simple calculations for the service groups.
+* Excel/Google Sheets: Did a bit of cleaning by removing empty cells and simple calculations for the service groups.
 * Power BI: Data Cleaning (Power Query), Modeling, and Visualization and created measures for Churn Rate%, Revenue at Risk 
 
 ## 📂 Project Resources
