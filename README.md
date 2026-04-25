@@ -20,7 +20,5 @@ This project analyzes a telecommunications dataset to identify why customers are
 ## 📂 Project Resources
 Click the links below to access the full analysis files:
 
-* 📊 [Download Power BI Dashboard](Telco_Customer_Churn_Dataset..pbix)
-
 ## 🖼️ Dashboard Preview
 ![Executive Summary Dashboard](Telco_Customer_Churn_Analysis.png)
