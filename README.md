@@ -17,8 +17,5 @@ This project analyzes a telecommunications dataset to identify why customers are
 * Excel/Google Sheets: Did a bit of cleaning by removing empty cells and simple calculations for the service groups.
 * Power BI: Data Cleaning (Power Query), Modeling, and Visualization and created measures for Churn Rate%, Revenue at Risk 
 
-## 📂 Project Resources
-Click the links below to access the full analysis files:
-
 ## 🖼️ Dashboard Preview
 ![Executive Summary Dashboard](Telco_Customer_Churn_Analysis.png)
