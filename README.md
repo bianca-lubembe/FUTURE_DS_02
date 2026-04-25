@@ -11,7 +11,7 @@ This project analyzes a telecommunications dataset to identify why customers are
 * The "Danger Zone": Churn spikes significantly in the first 6 months of tenure.
 * High-Risk Contracts: Month-to-month customers are more likely to churn than 2-year contract holders.
 * Service Gaps: Fiber optic customers without Tech Support or Online Security represent the highest "Revenue at Risk."
-* Financial Impact: Identified 120.85K in monthly recurring revenue currently at risk.
+* Financial Impact: Identified 139.85K in monthly recurring revenue currently at risk.
 
 ## Tools Used
 * Excel/Google Sheets: Did a bit of cleaning by removing empty cells and simple calculations for the service groups.
